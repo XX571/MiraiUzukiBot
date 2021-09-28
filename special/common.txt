@@ -1,0 +1,81 @@
+{
+  "name": "",
+  "texts": [
+    {
+      "content": "默认文案",
+      "contentRegex": "",
+      "replys": [
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "image://special\\QQ图片20200810004509.jpg",
+        "image://special\\QQ图片20200810004702.jpg",
+        "image://special\\gif1.gif",
+        "image://special\\gif2.gif",
+        "image://special\\gif3.gif",
+        "image://special\\gif4.gif",
+        "image://special\\gif5.gif",
+        "image://special\\gif6.gif",
+        "image://special\\uziki3.gif",
+        "image://special\\gif8.gif",
+        "image://special\\gif9.gif",
+        "image://special\\gif10.gif",
+        "image://special\\gif11.gif",
+        "image://special\\gif12.gif",
+        "image://special\\gif13.gif",
+        "image://special\\gif14.gif",
+        "image://special\\gif15.gif",
+        "image://special\\gif16.gif",
+        "image://special\\gif17.gif",
+        "image://special\\gif18.gif",
+        "image://special\\gif19.gif",
+        "image://special\\gif20.gif",
+        "image://special\\uzuki1.gif",
+        "image://special\\QQ图片20200808204521.gif",
+        "image://special\\QQ图片20200808220751.gif"
+      ]
+    },
+    {
+      "content": "卯月是谁",
+      "contentRegex": "",
+      "replys": [
+        "image://special\\Uzuki_prin_cone.png"
+      ]
+    },
+    {
+      "content": "XX是谁",
+      "contentRegex": "XX是谁|xx是谁",
+      "replys": [
+        "image://special\\68288649_p0.jpg"
+      ]
+    },
+    {
+      "content": "花生是谁",
+      "contentRegex": "花生是谁|花生佬是谁|花生酱是谁",
+      "replys": [
+        "image://special\\花生头像.jpg",
+        "花生佬NB"
+      ]
+    },
+    {
+      "content": "爱国佬是谁",
+      "contentRegex": "爱国是谁|爱国佬是谁",
+      "replys": [
+        "爱国佬yyds",
+        "爱国佬我偶像"
+      ]
+    },
+    {
+      "content": "🐍了",
+      "contentRegex": "🐍了",
+      "replys": [
+        "image://special\\lsp.jpg",
+        "一起🐍",
+        "里面不行!",
+        "🐍在哪里",
+        "变态!"
+      ]
+    }
+  ]
+}

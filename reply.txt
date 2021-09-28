@@ -1,0 +1,115 @@
+{
+  "name": "",
+  "texts": [
+    {
+      "content": "默认文案",
+      "contentRegex": "",
+      "replys": [
+        "爪巴",
+        "哦",
+        "啊这",
+        "你们先停一下",
+        "哈哈",
+        "给你🐴两👊",
+        "变态",
+        "？",
+        "。。。",
+        "島村卯月っ、頑張りますっ！！",
+        "image://special\\QQ图片20200808220751.gif",
+        "image://special\\QQ图片20200808204521.gif",
+        "image://special\\QQ图片20200808220302.jpg",
+        "image://special\\QQ图片20200808220634.jpg",
+        "image://special\\QQ图片20200809000800.jpg",
+        "image://special\\QQ图片20200808220536.jpg",
+        "image://special\\QQ20200810-0.jpg",
+        "image://special\\QQ20200810-1.jpg",
+        "image://special\\uziki1.jpg",
+        "image://special\\uziki2.jpg",
+        "image://special\\uziki3.jpg",
+        "image://special\\uziki4.jpg",
+        "image://special\\uziki5.jpg",
+        "image://special\\uziki6.jpg",
+        "image://special\\uziki7.jpg",
+        "image://special\\uziki8.jpg",
+        "image://special\\uziki9.jpg",
+        "image://special\\uziki10.jpg",
+        "image://special\\uziki11.jpg",
+        "image://special\\uziki12.jpg",
+        "image://special\\uziki13.jpg",
+        "image://special\\uziki14.jpg",
+        "image://special\\uziki15.jpg",
+        "image://special\\uziki16.jpg",
+        "image://special\\uziki18.jpg",
+        "image://special\\uziki19.jpg",
+        "image://special\\uzuki1.jpg",
+        "image://special\\uzuki1.gif",
+        "image://special\\uzuki4.png",
+        "image://special\\uziki3.gif"
+      ]
+    },
+    {
+      "content": "老婆",
+      "contentRegex": "老婆|老婆!|老婆！|laopo",
+      "replys": [
+        "老公",
+        "乖儿子",
+        "老公",
+        "image://special\\滚.jpg",
+        "image://special\\laopo.jpg",
+        "image://special\\lp1.jpg",
+        "image://special\\lp2.jpg",
+        "爸爸!",
+        "image://special\\uziki11.jpg",
+        "image://special\\uziki13.jpg",
+        "image://special\\uzuki5.gif",
+        "image://special\\byljlp.jpg"
+      ]
+    },
+    {
+      "content": "Sb",
+      "contentRegex": "你妈|轮奸|弱智|sb|SB|nmsl|畜生|死全家|傻逼|肏|杂种|傻卵|傻B|傻b|脑残|死妈|nmbiss|畜牲|脑瘫|低能儿",
+      "replys": [
+        "给你🐴两👊",
+        "image://special\\counter1.jpg",
+        "image://special\\counter2.jpg",
+        "image://special\\counter3.gif",
+        "image://special\\counter4.jpg",
+        "image://special\\counter5.jpg",
+        "image://special\\counter5.gif",
+        "image://special\\uziki11.jpg",
+        "image://special\\uziki8.jpg",
+        "image://special\\滚.jpg",
+        "image://special\\gif19.gif"
+      ]
+    },
+    {
+      "content": "爬",
+      "contentRegex": "爬|爪巴|rbq|RBQ|憨批|煞笔|kkp|废物|崽种|没用东西|辣鸡|憨憨|啥b|啥B",
+      "replys": [
+        "image://special\\uziki4.jpg",
+        "呜呜呜┭┮﹏┭┮",
+        "image://special\\uziki9.jpg",
+        "image://special\\uziki11.jpg",
+        "image://special\\uziki14.jpg",
+        "image://special\\uziki15.jpg",
+        "image://special\\我什么都没有.gif"
+      ]
+    },
+    {
+      "content": "来一井",
+      "contentRegex": "来一井",
+      "replys": [
+        "image://special\\命吃.jpg",
+        "image://special\\命吃.jpg",
+        "抱歉,您的钻石余额不足"
+      ]
+    },
+    {
+      "content": "测试发图",
+      "contentRegex": "测试发图",
+      "replys": [
+        "image://special\\test.JPG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "name": "",
+  "texts": [
+    {
+      "content": "默认文案",
+      "contentRegex": "",
+      "replys": [
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "repeat://",
+        "",
+        "repeat://",
+        "image://special\\QQ图片20200810004509.jpg",
+        "image://special\\QQ图片20200810004702.jpg",
+        "image://special\\QQ图片20200930030241.jpg",
+        "image://special\\gif1.gif",
+        "image://special\\gif2.gif",
+        "image://special\\gif3.gif",
+        "image://special\\gif4.gif",
+        "image://special\\gif5.gif",
+        "image://special\\gif6.gif",
+        "image://special\\uziki3.gif",
+        "image://special\\gif8.gif",
+        "image://special\\gif9.gif",
+        "image://special\\gif10.gif",
+        "image://special\\gif11.gif",
+        "image://special\\gif12.gif",
+        "image://special\\gif13.gif",
+        "image://special\\gif14.gif",
+        "image://special\\gif15.gif",
+        "image://special\\gif16.gif",
+        "image://special\\gif17.gif",
+        "image://special\\gif18.gif",
+        "image://special\\gif19.gif",
+        "image://special\\gif20.gif",
+        "image://special\\uzuki1.gif",
+        "image://special\\QQ图片20200808204521.gif",
+        "image://special\\QQ图片20200808220751.gif",
+        "image://special\\uziki5.jpg",
+        "image://special\\uziki7.jpg",
+        "image://special\\uziki16.jpg",
+        "image://special\\uziki17.jpg",
+        "image://special\\uziki18.jpg",
+        "image://special\\uziki20.jpg",
+        "image://special\\uzuki3.png",
+        "image://special\\uzuki5.gif",
+        "image://special\\uziki12.jpg"
+      ]
+    },
+    {
+      "content": "卯月来一井",
+      "contentRegex": "卯月来一井|卯月抽一井",
+      "replys": [
+        "image://special\\卯月来一井.png",
+        "image://special\\卯月来一井.png",
+        "抱歉,您的钻石余额不足"
+      ]
+    },
+    {
+      "content": "卯月是谁",
+      "contentRegex": "卯月|岛村卯月",
+      "replys": [
+        "image://special\\Uzuki_prin_cone.png",
+        "image://special\\uziki5.jpg",
+        "image://special\\uzuki1.jpg",
+        "image://special\\test.jpg",
+        "image://special\\uziki12.jpg",
+        "image://special\\uziki17.jpg",
+        "image://special\\uziki19.jpg",
+        "image://special\\uzuki5.gif",
+        "我的池子你井了嘛",
+        "嗯",
+        "島村卯月っ、頑張りますっ！！",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "content": "卵用",
+      "contentRegex": "卵用",
+      "replys": [
+        "是卯月不是卵用",
+        "是卯月",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "content": "井了",
+      "contentRegex": "井了",
+      "replys": [
+        "image://special\\uzuki2.jpg",
+        "image://special\\gif6.gif",
+        "image://special\\我什么都没有.gif",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "content": "XX是谁",
+      "contentRegex": "XX是谁|xx是谁",
+      "replys": [
+        "image://special\\68288649_p0.jpg"
+      ]
+    },
+    {
+      "content": "花生佬",
+      "contentRegex": "花生佬|花生佬是谁|花生酱",
+      "replys": [
+        "image://special\\花生头像.gif",
+        "花生佬NB",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "content": "爱国佬",
+      "contentRegex": "爱国是谁|爱国佬",
+      "replys": [
+        "爱国佬yyds",
+        "谁是爱国佬",
+        "爱国佬我偶像",
+        "image://special\\爱国.jpg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "content": "🐍了",
+      "contentRegex": "🐍了|射了|🐍爆|射爆",
+      "replys": [
+        "image://special\\lsp.jpg",
+        "image://special\\uziki2.jpg",
+        "一起🐍",
+        "里面不行!",
+        "🐍你嘴里",
+        "适当停一下。",
+        "社保了",
+        "去了",
+        "🐍在哪里",
+        "吞下去,补充蛋白质",
+        "变态!"
+      ]
+    },
+    {
+      "content": "帮助",
+      "contentRegex": "",
+      "replys": [
+        "=====================\r\n- 卯月使用说明 -\r\n=====================\r\n发送方括号[]内的关键词即可触发(部分关键词需要@)\r\n[涩图] 查看涩图\r\n[新涩图] 查看最新涩图\r\n[涩图状态] 查看剩余涩图数量(需要@)\r\n[剩余涩图] 查看剩余涩图数量\r\n[涩图十连] 一次发10张涩图\r\n[开启R18] 开启R18模式(仅指定群有效)\r\n[插嘴频率增加] 增加随机说话频率(需要@)\r\n[插嘴频率减少] 减少随机说话频率(需要@)\r\n========\r\n※除这里中写明外 另有其他隐藏功能:)\r\n"
+      ]
+    },
+    {
+      "content": "我好了",
+      "contentRegex": "我好了|我有个朋友说他好了|我朋友说他好了",
+      "replys": [
+        "喝回去！",
+        "好个🔨",
+        "吞下去,补充蛋白质",
+        "不许好，再来一发"
+      ]
+    },
+         {
+           "content": "作业网",
+           "contentRegex": "作业网|查作业|jjc网址",
+           "replys": [
+             "https://pcrdfans.com/battle"
+           ]
+         }
+  ]
+}
