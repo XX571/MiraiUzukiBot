@@ -1,5 +1,3 @@
-# mirai-hello-world
+# 一切开发旨在学习，请勿用于非法用途
 
-Mirai Hello World example.
-
-Run `src/main/kotlin/KotlinMain.kt` or `src/kotlin/java/org/example/mirai/JavaMain.java`
+####  https://github.com/mamoe/mirai
